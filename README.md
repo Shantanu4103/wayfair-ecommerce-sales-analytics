@@ -77,33 +77,6 @@ MySQL 8 (command line) · SQL (CTEs, window functions, views) · Power BI Deskto
 - Test a smaller or targeted holiday discount, since `HOLIDAY20` lowers both basket size and margin.
 - Run a win-back campaign for "At Risk" customers.
 
-## Dashboard pages
-
-### 1. Overview
-KPI cards, monthly revenue by year, order status mix.
-
-![Overview](screenshots/overview.png)
-
-### 2. Products
-Revenue and margin by category, return rate by category, top products.
-
-![Products](screenshots/products.png)
-
-### 3. Customers
-Channel quality, RFM segments, cohort retention heatmap, top customers.
-
-![Customers](screenshots/customers.png)
-
-### 4. Promotions
-Discount waterfall, revenue vs discount rate by month, margin by promo code, payment methods.
-
-![Promotions](screenshots/promotions.png)
-
-### 5. Product Detail (drill-through)
-Hidden page that opens when you right-click a product on the Products page. Shows that product's revenue, units, margin, return rate and monthly trend.
-
-![Product Detail](screenshots/product_detail.png)
-
 ## How to reproduce
 
 1. Create an empty database, then connect:
