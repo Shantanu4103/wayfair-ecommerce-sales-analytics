@@ -2,9 +2,8 @@
 
 An end-to-end analytics project: raw CSV files → cleaned MySQL database → SQL analysis → an interactive Power BI dashboard.
 
-> **Author:** YOUR NAME · **Contact:** YOUR EMAIL / LINKEDIN
+> **Author:** Shantanu Shrotri · **Contact:** shantanu.shrotri@gmail.com / https://www.linkedin.com/in/shantanu-shrotri/
 
-![Dashboard preview](screenshots/overview.png)
 
 ---
 
